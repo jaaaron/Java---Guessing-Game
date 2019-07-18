@@ -6,3 +6,7 @@ for its random number.
 Until the user guesses the right number, the player will continue to guess. 
 
 Asking for another input, the computer will display that the users guess was "Too high" or "Too low", for every guess. The computer's random generated number will be revealed when the user guesses the correct number, at the end of the game.
+
+# Traffic Light Simulator
+
+ Developed a Traffic Light Simulator that waits for Car detention before activating normal Traffic Light sequence.
